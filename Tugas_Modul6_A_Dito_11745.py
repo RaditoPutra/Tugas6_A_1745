@@ -221,7 +221,7 @@ if uploaded_files:
 # Tambahkan copyright di bagian bawah
 copyright_html = """
 <div style="text-align: center; margin-top: 5px; font-size: 14px; color: #FFF; opacity: 0.8;">
-    © 2024 Atanasius Surya. All Rights Reserved.
+    © 2024 Fransiscus Radito. All Rights Reserved.
 </div>
 """
 st.markdown(copyright_html, unsafe_allow_html=True)
